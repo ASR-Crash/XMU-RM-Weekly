@@ -1,9 +1,8 @@
 site_name: 厦门大学·RoboMaster·备赛周报<img src='https://cdn.img.wenhairu.com/images/2020/10/11/CksbD.png'>
 site_favicon: favicon.ico
-
 nav:
-- RM2021
-- RM2021-Week1: RM2021-Week1.md
+- RM2021:
+    - RM2021-Week1: RM2021-Week1.md
 
 theme: readthedocs
 site_author: Crash

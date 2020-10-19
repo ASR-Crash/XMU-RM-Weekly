@@ -1,6 +1,6 @@
-# 厦门大学机器人队-RM2021备赛周报
+<font size=6>**厦门大学机器人队-RM2021备赛周报**</font>
 
-###### 2020.10.18 第1周 第1期
+<font color=gray>**2020.10.18 第1周 第1期**</font>
 
 ---
 
@@ -20,7 +20,11 @@
     <tr>
         <td><img src='厦门大学 RM2021 时间规划 V1.0.png'>
         <td><img src='厦门大学机器人队工作规范.png'>
+        </td>
+    </tr>
+</table>
 
 ----
 
 <img src='https://cdn.img.wenhairu.com/images/2020/10/18/CbAIj.png'  >
+
