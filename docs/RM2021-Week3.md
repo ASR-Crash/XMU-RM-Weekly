@@ -15,11 +15,11 @@
 架构答辩持续2小时，参与答辩的兵种包括：英雄、步兵、无人机、哨兵、飞镖。
 
 <img src='20201031-步兵答辩.jpg'>
-
 <center><strong><font color='gray'>步兵架构答辩</font></strong></center>
-<img src="20201031-无人机答辩.jpg" alt="20201031-无人机答辩"  />
 
+<img src="20201031-无人机答辩.jpg" alt="20201031-无人机答辩"  />
 <center><strong><font color='gray'>无人机架构答辩</font></strong></center>
+
 答辩结束后，例会上进行各技术组任务分配，确定了速度、准度、精度等技术指标。
 
 <table>
