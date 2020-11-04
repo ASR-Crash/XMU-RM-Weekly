@@ -6,6 +6,8 @@
 
 [RM2021-Week2](RM2021-Week2.md)
 
+[RM2021-Week3](RM2021-Week3.md)
+
 ---
 
 <img src='https://cdn.img.wenhairu.com/images/2020/10/18/CbAIj.png'  >

@@ -4,6 +4,7 @@ nav:
 - RM2021:
     - RM2021-Week1: RM2021-Week1.md
     - RM2021-Week2: RM2021-Week2.md
+    - RM2021-Week3: RM2021-Week3.md
 theme: readthedocs
 site_author: Crash
 copyright: Copyright © 2020 ASR-Crash, maintained by XMU-ROBOT Operation Group
